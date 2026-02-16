@@ -1,17 +1,17 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
-import Home from './pages/Home.jsx'
-import About from './pages/About.jsx'
-import Collection from './pages/collection.jsx'
-import Cart from './pages/Cart.jsx'
-import Contact from './pages/Contact.jsx'
-import Login from './pages/Login.jsx'
-import Orders from './pages/Orders.jsx'
-import Product from './pages/Product.jsx'
-import Placeorder from "./pages/Placeorder.jsx"
-import Navbar from './components/Navbar.jsx'
-import Footer from './components/Footer.jsx'
-import SearchBar from './components/SearchBar.jsx'
+import Home from './pages/Home'
+import About from './pages/About'
+import Collection from './pages/collection'
+import Cart from './pages/Cart'
+import Contact from './pages/Contact'
+import Login from './pages/Login'
+import Orders from './pages/Orders'
+import Product from './pages/Product'
+import Placeorder from "./pages/Placeorder"
+import Navbar from './components/Navbar'
+import Footer from './components/Footer'
+import SearchBar from './components/SearchBar'
 
 const App = () => {
   return (
